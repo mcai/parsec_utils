@@ -2,7 +2,7 @@
 
 ## About parsec_utils
 
-Shell scripts about compiling and running PARSEC 3.0 benchmark suite.
+Bash scripts about compiling and running PARSEC 3.0 benchmark suite.
 
 ## Usage
 
